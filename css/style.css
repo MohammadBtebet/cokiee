@@ -1,0 +1,89 @@
+#add {
+    font-size: 40px;
+    text-align: center;
+    background-color: 887caf;
+}
+
+body {
+    background-color:#5390d9;
+}
+ 
+h1 {
+    text-align: center;
+    font-size:50px;
+    font-style: italic;
+    font-variant: small-caps ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+.img1 { 
+    margin-left: 250px;
+}
+
+a {
+    font-size: 30px;
+    color:black;
+    text-decoration: none;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #pat {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Brush Script MT (cursive);
+  }
+ 
+  .div-sales {
+    padding-left:480px ;
+
+  }
+
+  .sales {
+    color: white;
+}
+
+  .btn-sales {
+      border-radius: 10px 10px 10px 10px;
+      margin:50px;
+      float:inline-end;
+      background-color:black;
+  }
+
+  .img-row {
+    border-radius: 100%;
+}
+
+  .store-location {
+    background-color: tomato;
+}
+
+  .div-button {
+    padding-left: 550px;
+}
+
+.btn-home {
+    border-radius: 10px 10px 10px 10px;
+    background-color: black;
+    margin:50px;
+    float:inline-end;
+  }
+
+  .salmon{
+    margin-left: 250px;
+    padding-top:50px ;
+}
+
+  .home{
+      color: white;
+  }
+
+
+
